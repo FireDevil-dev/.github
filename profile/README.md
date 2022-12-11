@@ -9,6 +9,6 @@
 
 ## Our Team
 
-- [Snox](https://snox.cf)
-- [Allb](https://twitch.tv/amazing_allb)
-- [Soru](#)
+- Owner: [SimplySnox](https://snox.cf)
+- Manager: [Amazing_Allb](https://twitch.tv/amazing_allb)
+- Administrator: [Immortal](#)

@@ -9,6 +9,6 @@
 
 ## Our Team
 
-- Owner: [SimplySnox](https://snox.cf)
-- Manager: [Amazing_Allb](https://twitch.tv/amazing_allb)
-- Administrator: [Immortal](#)
+- [SimplySnox](https://snox.cf)
+- [Amazing_Allb](https://twitch.tv/amazing_allb)
+- [Immortal](#)
